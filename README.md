@@ -1,1 +1,1 @@
-# machine-learning
+Machine learning applications in Python.
