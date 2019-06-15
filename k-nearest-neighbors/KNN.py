@@ -30,6 +30,7 @@ acc = model.score(x_test, y_test)
 print(acc)
 
 predicted = model.predict(x_test)
+
 names = ["unacc", "acc", "good", "vgood"]
 
 for x in range(len(predicted)):
